@@ -1,0 +1,106 @@
+body{
+ background-color: 	#484848;
+
+}
+ul{
+
+	color: white;
+}
+
+
+a{
+	color: lightgreen;	
+}
+
+
+img{
+	float: right;
+	border: 5px solid lightgrey	;
+    padding: 15px;
+}
+.name{
+	text-align: center;
+	color: white;
+}
+
+.topnav {
+	list-style: none;
+	padding-left: 10px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	text-align: center;
+	border-bottom: 5px;
+	border-bottom-style: solid;
+	border-bottom-color: lightgrey;
+}
+.bottomonav {
+	list-style: none;
+	padding-left: 10px;
+	padding-top: 10px;
+	padding-top: 10px;
+	text-align: center;
+	border-top: 5px;
+	border-top-style: solid;
+	border-top-color: lightgrey;	
+}
+.topnav-link {
+	display: inline-block;
+	border-right: 2px lightgrey;
+	padding-right: 10px;
+	padding-left: 10px;
+	border-right-style: solid;
+}
+.bottomnav-link {
+	display: inline-block;
+	border-right: 2px lightgrey;
+	padding-right: 10px;
+	padding-left: 10px;
+	border-right-style: solid;
+}
+
+.topnav-link-no-rightborder {
+	border-right: none;
+}
+
+
+.block-title {
+    padding-bottom: 10px;
+    text-align: left;
+    color: white;
+}
+
+span{
+	color: white;
+}	
+.block{
+	text-align: left;
+	padding-right: 400px;
+	padding-bottom: 250px;
+}
+.block-nopic{
+	text-align: left;
+	padding-right: 40px;
+}
+.section-title {
+	margin-bottom: 0;
+	font-weight: none;
+	color: grey;
+	padding-top: 15px;
+	padding-bottom: 15px
+	font-size: 1.17em;
+	font-weight: normal;
+	display: block;
+}
+.grey-txt{
+	color:	grey;
+}
+ol{
+
+	 list-style: square;
+	 color: white;
+}
+ol li {
+
+	padding-bottom: 15px
+}
+
